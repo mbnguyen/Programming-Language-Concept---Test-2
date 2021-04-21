@@ -1,0 +1,14 @@
+@variable123 = 123 + 456 % 345
+$_1234abc = 123.456 - 0x324 * 1234 / 5
+$_abc_123 = "string"
+%ABCD1234abc
+'d'
+'cd'
+String
+Integer
+Character
+Float
+Void
+{ $bool && $bool2 || $bool3 }
+( )
+@array1 [ ]
